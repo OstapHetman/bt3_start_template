@@ -1,1 +1,1 @@
-# bt3_start_template
+It's a start structure of projects, that helps me 
