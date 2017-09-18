@@ -1,1 +1,1 @@
-It's a start structure of projects, that helps me 
+It's a Project Starter Pack based on Bootstrap 3, SASS and Gulp.
